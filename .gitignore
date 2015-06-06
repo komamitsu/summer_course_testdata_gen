@@ -1,0 +1,6 @@
+*.o
+*.cmx
+*.cmi
+natsu_testdata
+*.csv
+.*.swp
